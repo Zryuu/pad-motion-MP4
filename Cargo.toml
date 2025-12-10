@@ -17,6 +17,7 @@ name = "pad_motion"
 [dependencies]
 byteorder = "1.4.2"
 crc32fast = "1.2.1"
+crc = "1.0"
 rand = "0.8.3"
 crossbeam-queue = "0.3.1"
 

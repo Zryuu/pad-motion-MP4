@@ -1,8 +1,14 @@
-# This was edited for use with MPR on Yuzu
+# This was edited for use with MP4 and based on [Fizzisoda's](https://github.com/fizzisoda/pad-motion) MPR version.
+This is also able to run via Citron. Set it up exactly as it says below but with Citron instead of Yuzu. Everywhere Yuzu directory you see, replace it with Citron's (ie.`%appdata%/yuzu/config/input` -> `Citron Nightly\user\config\input`). If a directory doesn't exist in Citron's folders, just make it. I haven't tried Eden but don't see why it wouldn't work.
 
 ### There is now a Video Tutorial!
+Fizzisoda's:
 https://www.youtube.com/watch?v=HVfgRrJXTEU<br />
 [![Watch the video](https://img.youtube.com/vi/HVfgRrJXTEU/mqdefault.jpg)](https://www.youtube.com/watch?v=HVfgRrJXTEU)
+
+Mine:
+https://youtu.be/0_RxQw_94mk
+[![Watch the video](https://img.youtube.com/vi/0_RxQw_94mk/mqdefault.jpg)](https://www.youtube.com/watch?v=HVfgRrJXTEU)
 
 # Pad-Motion
 Implementation of Cemuhook gamepad motion protocol. 

@@ -106,8 +106,8 @@ fn main() {
           analog_l2: analog_button_value(Button::LeftTrigger2),
           motion_data_timestamp: now.elapsed().as_micros() as u64,
           gyroscope_pitch: -delta_rotation_y * 3.0,
-          gyroscope_roll: -delta_rotation_x * 2.0,
-          gyroscope_yaw: delta_mouse_wheel * 300.0,
+          gyroscope_roll: delta_mouse_wheel * 300.0,
+          gyroscope_yaw: delta_rotation_x * 2.0,
           .. Default::default()
         }
       } else {
@@ -115,8 +115,8 @@ fn main() {
           connected: true,
           motion_data_timestamp: now.elapsed().as_micros() as u64,
           gyroscope_pitch: -delta_rotation_y * 3.0,
-          gyroscope_roll: -delta_rotation_x * 2.0,
-          gyroscope_yaw: delta_mouse_wheel * 300.0,
+          gyroscope_roll: delta_mouse_wheel * 300.0,
+          gyroscope_yaw: delta_rotation_x * 2.0,
           .. Default::default()
         }
       }
