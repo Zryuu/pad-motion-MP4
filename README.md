@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=HVfgRrJXTEU<br />
 [![Watch the video](https://img.youtube.com/vi/HVfgRrJXTEU/mqdefault.jpg)](https://www.youtube.com/watch?v=HVfgRrJXTEU)
 
 Mine:
-https://youtu.be/0_RxQw_94mk
+https://youtu.be/0_RxQw_94mk<br />
 [![Watch the video](https://img.youtube.com/vi/0_RxQw_94mk/mqdefault.jpg)](https://www.youtube.com/watch?v=HVfgRrJXTEU)
 
 # Pad-Motion
